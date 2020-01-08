@@ -26,7 +26,8 @@ The data types for the attributes are all either numeric or nominal. Each instan
 
 ![approval results](https://i.imgur.com/wjlpu1M.png)
 
-Goal and Results
+## Goal and Results
+
 The goal was to predict the accuracy of the model with the data provided. 80% of the total data set was used to train the model and the rest (20%) used to predict the approval outcome. In the end the model was able to have about an 88% accuracy.
 
 ![Confusion matrix of test records](https://i.imgur.com/cZTJFJv.png)
